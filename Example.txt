@@ -4,3 +4,4 @@ Example
 Тренируемся работать с Tesh
 
 Изменение файл в ветке develop
+Изменили файл Example из GitHub
